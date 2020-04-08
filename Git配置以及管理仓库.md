@@ -115,7 +115,7 @@ git status #暂存区的文件清空了。
 vim d:/Desktop/work/github/1.Linux/Linux-study/.git/config   #修改配置文件，在默认链接方式中添加自己github的账号和密码，主要是为了方便上传同步。
 ```
 
-####**修改方式如下：**
+#### **修改方式如下：**
 
 1、**原始信息：**
 
